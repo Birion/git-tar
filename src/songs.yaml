@@ -1,0 +1,162 @@
+- genre: acoustic
+  examples:
+    - title: Wish You Were Here
+      artist: Pink Floyd
+      url: https://www.youtube.com/watch?v=IXdNnw99-Ic
+    - title: Fire and Rain
+      artist: James Taylor
+      url: https://www.youtube.com/watch?v=EbD7lfrsY2s
+    - title: Hotel California
+      artist: Eagles
+      url: https://www.youtube.com/watch?v=EqPtz5qN7HM
+    - title: Blackbird
+      artist: The Beatles
+      url: https://www.youtube.com/watch?v=Man4Xw8Xypo
+    - title: American Pie
+      artist: Don McLean
+      url: https://www.youtube.com/watch?v=iX_TFkut1PM
+    - title: Wonderwall
+      artist: Oasis
+      url: https://www.youtube.com/watch?v=6hzrDeceEKc
+    - title: More Than Words
+      artist: Extreme
+      url: https://www.youtube.com/watch?v=UrIiLvg58SY
+    - title: Dust in the Wind
+      artist: Kansas
+      url: https://www.youtube.com/watch?v=tH2w6Oxx0kQ
+    - title: Redemption Song
+      artist: Bob Marley
+      url: https://www.youtube.com/watch?v=1A95dcLxAuA
+    - title: Sound of Silence
+      artist: Simon and Garfunkel
+      url: https://www.youtube.com/watch?v=NAEppFUWLfc
+- genre: rock
+  examples:
+    - title: Stairway to Heaven
+      artist: Led Zeppelin
+      url: https://www.youtube.com/watch?v=QkF3oxziUI4
+    - title: Sweet Child o' Mine
+      artist: Guns N' Roses
+      url: https://www.youtube.com/watch?v=1w7OgIMMRc4
+    - title: Voodoo Child
+      artist: Jimi Hendrix
+      url: https://www.youtube.com/watch?v=qFfnlYbFEiE
+    - title: I Love Rock 'N' Roll
+      artist: Joan Jett
+      url: https://www.youtube.com/watch?v=wMsazR6Tnf8
+    - title: Sunshine of Your Love
+      artist: Cream
+      url: https://www.youtube.com/watch?v=y_u1eu6Lpds
+    - title: Back in Black
+      artist: AC/DC
+      url: https://www.youtube.com/watch?v=pAgnJDJN4VA
+    - title: Seven Nation Army
+      artist: Jack White
+      url: https://www.youtube.com/watch?v=0J2QdDbelmY
+    - title: Smells Like Teen Spirit
+      artist: Nirvana
+      url: https://www.youtube.com/watch?v=hTWKbfoikeg
+    - title: Smoke on the Water
+      artist: Deep Purple
+      url: https://www.youtube.com/watch?v=1L3XxUxEb6U
+    - title: Crazy Train
+      artist: Ozzy Osbourne
+      url: https://www.youtube.com/watch?v=tMDFv5m18Pw
+- genre: folk
+  examples:
+    - title: Sweet Home Chicago
+      artist: Robert Johnson
+      url: https://www.youtube.com/watch?v=O8hqGu-leFc
+    - title: The Times They Are A-Changin'
+      artist: Bob Dylan
+      url: https://www.youtube.com/watch?v=90WD_ats6eE
+    - title: If I Had a Hammer
+      artist: Peter, Paul and Mary
+      url: https://www.youtube.com/watch?v=elgp_upEHIo
+    - title: Don't Think Twice It's Alright
+      artist: Bob Dylan
+      url: https://www.youtube.com/watch?v=1iHhWh9FtsQ
+    - title: Alice's Restaurant
+      artist: Arlo Guthrie
+      url: https://www.youtube.com/watch?v=m57gzA2JCcM
+    - title: Scarborough Fair
+      artist: Simon and Garfunkel
+      url: https://www.youtube.com/watch?v=4Ccgk8PXz64
+    - title: Big Yellow Taxi
+      artist: Joni Mitchell
+      url: https://www.youtube.com/watch?v=2595abcvh2M
+    - title: Mr. Bojangles
+      artist: Jerry Jeff Walker
+      url: https://www.youtube.com/watch?v=fM6x5WG0DWw
+    - title: Minor Swing
+      artist: Django Reinhardt
+      url: https://www.youtube.com/watch?v=uTlo809EIlo
+    - title: Guitar Boogie
+      artist: Arthur Smith
+      url: https://www.youtube.com/watch?v=1vOwu5BBQko
+- genre: classical
+  examples:
+    - title: Asturias
+      artist: Isaac Albeniz
+      url: https://www.youtube.com/watch?v=oEfFbuT3I6A
+    - title: La Catedral
+      artist: Agustin Barrios-Mangore
+      url: https://www.youtube.com/watch?v=-Vy4H4D3z2M
+    - title: E Minor Bouree
+      artist: J.S. Bach
+      url: https://www.youtube.com/watch?v=APNI2CC0k6A
+    - title: Etude in A Minor
+      artist: Dionisio Aguado
+      url: https://www.youtube.com/watch?v=72-NWzH9NPg
+    - title: Recuerdos de la Alhambra
+      artist: Francisco Tárrega
+      url: https://www.youtube.com/watch?v=fwjX-m4LkYk
+    - title: D Minor Chaconne
+      artist: J.S. Bach
+      url: https://www.youtube.com/watch?v=JNEnzNHTkd8
+    - title: Mazurka Choro
+      artist: Heitor Villa-Lobos
+      url: https://www.youtube.com/watch?v=xhnseQm2998
+    - title: Prelude from the E Major Lute Suite
+      artist: J.S. Bach
+      url: https://www.youtube.com/watch?v=oPfZVflJdp0
+    - title: Study in B Minor Opus 35 no 22
+      artist: Fernando Sor
+      url: https://www.youtube.com/watch?v=plG_6rlED2w
+    - title: Romanza
+      artist: Anonymous
+      url: https://www.youtube.com/watch?v=tfBZIClY7KU
+- genre: electric
+  examples:
+    - title: Under the Bridge
+      artist: Red Hot Chili Peppers
+      url: https://www.youtube.com/watch?v=GLvohMXgcBo
+    - title: Sultans of Swing
+      artist: Dire Straits
+      url: https://www.youtube.com/watch?v=h0ffIJ7ZO4U
+    - title: Gravity
+      artist: John Mayer
+      url: https://www.youtube.com/watch?v=_iGOWk-r614
+    - title: La Grange
+      artist: ZZ Top
+      url: https://www.youtube.com/watch?v=vqz0wRaie2g
+    - title: Freebird
+      artist: Lynyrd Skynyrd
+      url: https://www.youtube.com/watch?v=3mExcPmReUM
+    - title: While My Guitar Gently Weeps
+      artist: The Beatles
+      url: https://www.youtube.com/watch?v=VJDJs9dumZI
+    - title: Eruption
+      artist: Eddie Van Halen
+      url: https://www.youtube.com/watch?v=M4Czx8EWXb0
+    - title: Johnny B. Goode
+      artist: Chuck Berry
+      url: https://www.youtube.com/watch?v=T38v3-SSGcM
+    - title: Pride and Joy
+      artist: Stevie Ray Vaughan
+      url: https://www.youtube.com/watch?v=kfjXp4KTTY8
+    - title: Layla
+      artist: Eric Clapton
+      url: https://www.youtube.com/watch?v=pKwQlm-wldA
+
+# Source: https://takelessons.com/blog/best-guitar-songs-of-all-time-z01
